@@ -1,9 +1,9 @@
 ### Salvete, omnes! 😺
 I'm August, a 2nd year Computer Science and Classics student at UMss Amherst!
  
- 
+
 ### 🐱 About Me 
-- They/them pronuns
+- They/them pronouns
 - Avid enjoyer of Horace and Cicero
 - I really like cats
 - I really enjoy (and contribute to) [Catppuccin](https://github.com/catppuccin/)
