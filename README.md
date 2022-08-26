@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salvete! 👋
 
 <!--
 **sacerd-OS/sacerd-OS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
