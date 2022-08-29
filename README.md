@@ -1,5 +1,5 @@
 ### Salvete, omnes! 😺
-I'm August, a 2nd year Computer Science and Classics student at UMss Amherst!
+I'm August, a 2nd year Computer Science and Classics student at UMass Amherst!
  
 
 ### 🐱 About Me 
