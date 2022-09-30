@@ -4,9 +4,9 @@ I'm August, a 2nd year Computer Science and Classics student at UMass Amherst!
 
 ### 🐱 About Me 
 - They/them pronouns
-- Avid enjoyer of Horace and Cicero
+- Avid enjoyer of Horace and Catullus
 - I really like cats
-- I really enjoy (and contribute to) [Catppuccin](https://github.com/catppuccin/)
+- I love (and also contribute to) [Catppuccin](https://github.com/catppuccin/)
 
 
 ### 🐈 Interests 
