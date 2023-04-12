@@ -5,7 +5,8 @@ I keep miscellaneous projects and schoolwork on my GitHub account, much of which
 
 ### 😼 Skills 
 - C / C++
+- x86 Assembly
 - Typescript
 - HTML / CSS / TailwindCSS / Basic web development
 
-Other languages/tools as needed (Python, Java, standard JS, etc.)
+Other languages/tools as needed (Python, Java, JS for webdev, etc.)
